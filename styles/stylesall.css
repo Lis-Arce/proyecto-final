@@ -1,0 +1,205 @@
+body {
+    font-size:18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: justify;
+    
+    
+    
+}
+
+
+header, footer {
+    
+    background:#000;
+    padding: 10px;
+    color: white;
+}
+
+h1 {
+    font-family: fantasy;
+    color: #fff;
+}
+ 
+header nav {
+    background: #005bbb;
+    padding: 20px;
+    color: black
+}
+
+header img {
+    border-radius: 15px;
+    
+}
+
+.parrafo {
+    font-family: cursive;
+}
+
+.box1 {
+    width: 48;
+    padding: 10px;
+    display: inline-block;
+    background-color:yellow; 
+    list-style: none;
+    color: black;
+    border: 7px solid black; 
+   
+
+
+}
+
+.box2 {
+   
+    width: 48;
+    padding: 10px;
+    display: inline-block;
+    background-color:black ;
+    list-style: none;
+    color: yellow;  
+    border: 7px solid yellow;
+    
+   
+
+}
+
+
+
+
+
+
+#profile {
+    width: 200px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    float: left;
+    border-radius: 30px;
+}
+
+li {
+    color: #005bbb
+}
+
+button {
+
+    background-color:  #f47c24; ;
+    color: #fff;
+    border-radius: 7px;
+    box-shadow: 0px 1px 3px #000;
+    cursor: pointer;
+    padding: 5px 10px;
+    font-weight: bold;
+
+}
+
+
+ .navbutton{
+   text-decoration: none;  
+   font-weight: 600;
+   font-size: 20px;
+   color: black;
+   padding-top: 15px;
+   padding-bottom: 15px;
+   padding-left: 40px;
+   padding-right: 40px;
+   background-color: yellow;
+   border-color: black;
+   border-width: 3px;
+   border-style:solid;
+   border-radius: 35px;
+ }
+
+
+.fa-facebook {
+    color: white;
+}
+
+.fa-twitter {
+    color: white;
+}
+
+.fa-linkedin-in {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.fa-github {
+    color: white;
+}
+
+
+.fa-heart {
+    color: #005bbb
+}
+
+
+
+.category {
+    display: inline-block;
+}
+
+
+#mas{
+    border: 3px solid#005bbb;   
+    padding: 3px; 
+    background-color:yellow;  ; 
+    color: #000; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+}
+
+#menos{
+    border: 3px solid#005bbb;   
+    padding: 3px; 
+    background-color:yellow;  
+    color: #000; 
+    text-decoration: none; 
+    text-transform: uppercase; 
+    font-family: 'Helvetica', sans-serif; 
+    border-radius: 50px; 
+}
+
+
+
+#mascotas {
+    display: none; 
+    
+    
+    
+}
+
+#paseos{
+    display: none;
+    
+    
+    
+}
+
+.img-card {
+    
+    display: inline-block;
+    
+}
+
+
+#hobbies-btn {
+    background-color: #005bbb; 
+    color: white;
+}
+
+#mascotas-btn {
+   background-color:  #005bbb; 
+   color: white;
+}
+
+#paseos-btn  {
+
+    background-color: #005bbb; 
+    color: white;
+}
